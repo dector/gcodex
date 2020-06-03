@@ -1,0 +1,12 @@
+{
+  "gcode-x": "0.1",
+  "meta": {
+    "slicer": {
+      "name": "IceSL",
+      "version": "May 20 2020 16:17:51"
+    },
+    "slice": {
+      "datetime": "2020-06-03T04:46:01+04:00"
+    }
+  }
+}
